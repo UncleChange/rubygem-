@@ -12,3 +12,9 @@ source(http://mirror.sysu.edu.cn/rubygems/)
 gem source -l  查看数据更新源
 
 更新 gem到最新版本     gem update --system
+
+
+另外也可以使用非 https 镜像 或者源    
+
+https://rubygems.org/
+http://gems.github.com
