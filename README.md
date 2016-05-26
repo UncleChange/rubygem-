@@ -3,3 +3,12 @@ rubygem 镜像 中山大学
 
 
 source(http://mirror.sysu.edu.cn/rubygems/)
+
+
+安装ruby gem 版本过低 无法更新   SSL错误等问题
+
+更换数据更新源  gem source --add http://mirror.sysu.edu.cn/rubygems/ --remove https://rubygems.org/
+
+gem source -l  查看数据更新源
+
+更新 gem到最新版本     gem update --system
