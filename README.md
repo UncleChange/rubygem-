@@ -18,3 +18,8 @@ gem source -l  查看数据更新源
 
 https://rubygems.org/
 http://gems.github.com
+
+
+intellij idea  破解服务http://www.iteblog.com/idea/key.php 
+
+填到  Help->Register->License server 即可
