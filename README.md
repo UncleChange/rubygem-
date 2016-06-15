@@ -1,4 +1,5 @@
-# rubygem-
+# rubygem   
+
 rubygem 镜像 中山大学
 
 
@@ -19,6 +20,7 @@ gem source -l  查看数据更新源
 https://rubygems.org/
 http://gems.github.com
 
+# 破解intellij
 
 intellij idea  破解服务http://www.iteblog.com/idea/key.php 
 
